@@ -1,13 +1,13 @@
 # Hi there, I'm Sumon 👋
 
-- 🎓 **Computer Science & Engineering Student** BUET 
+- 🎓 **Computer Science & Engineering Student** @ **BUET**
 - 💻 Proficient in **C, C++, Java, Python, JavaScript, TypeScript**
 - 🛠️ Passionate about **Software Engineering, Object-Oriented Design, Database Systems & Audio Signal Processing**
 - 💬 Ask me about **OOP Design Patterns, Data Structures & Algorithms, DBMS, or Signals & Systems**
 
 ---
 
-### 🎓 Relevant Academic Coursework (BUET CSE)
+### 🎓 Relevant Academic Coursework (**CSE, BUET**)
 
 - **Software & Systems:** Software Engineering (CSE213/214), Object-Oriented Programming (CSE107/108), Database Management Systems (CSE215/216), Computer Architecture (CSE209/210)
 - **Algorithms & Core CS:** Data Structures & Algorithms (CSE105/106/207/208), Theory of Computation (CSE211), Discrete Mathematics (CSE103), Structured Programming (CSE101/102)
