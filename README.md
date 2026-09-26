@@ -1,6 +1,6 @@
 # Hi there, I'm Sumon 👋
 
-- 🎓 **Computer Science & Engineering Student** @ BUET (2nd Year Complete)
+- 🎓 **Computer Science & Engineering Student** @ BUET 
 - 💻 Proficient in **C, C++, Java, Python, JavaScript, TypeScript**
 - 🛠️ Passionate about **Software Engineering, Object-Oriented Design, Database Systems & Audio Signal Processing**
 - 💬 Ask me about **OOP Design Patterns, Data Structures & Algorithms, DBMS, or Signals & Systems**
